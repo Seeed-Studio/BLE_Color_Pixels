@@ -35,3 +35,5 @@ global distributors and partners to push open hardware movement.<br>
 
 [Arch BLE]: http://www.seeedstudio.com/depot/Arch-BLE-p-1998.html
 [WS2812B RGB LED strip]: http://www.seeedstudio.com/depot/Digital-RGB-LED-FlexiStrip-60-LED-1-Meter-p-1666.html
+
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/ble_color_pixels)](https://github.com/igrigorik/ga-beacon)
