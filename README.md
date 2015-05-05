@@ -13,7 +13,7 @@ DIY a colorful object with [Arch BLE][] and [WS2812B RGB LED strip][], which can
 
 
 ### Software
-+ [Firmware on mbed.org](http://www.seeedstudio.com/depot/Arch-BLE-p-1998.html?cPath=19_21)
++ [Firmware on mbed.org](https://developer.mbed.org/teams/Seeed/code/BLE_Color_Pixels/)
 + [Holo Color Picker library @ ble_color_pixels branch](https://github.com/xiongyihui/HoloColorPicker/tree/ble_color_pixels)
 
 
